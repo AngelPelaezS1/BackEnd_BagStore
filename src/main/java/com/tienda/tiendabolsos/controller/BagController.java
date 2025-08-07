@@ -27,4 +27,3 @@ public class BagController {
         return ResponseEntity.ok().build();
     }
 }
-

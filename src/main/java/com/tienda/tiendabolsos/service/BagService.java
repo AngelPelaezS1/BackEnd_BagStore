@@ -50,6 +50,3 @@ public class BagService {
         bagRepository.save(bag);
     }
 }
-
-
-

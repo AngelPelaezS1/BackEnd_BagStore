@@ -24,5 +24,4 @@ public class ImageStorageService {
             throw new RuntimeException("Error al guardar la imagen", e);
         }
     }
-
 }
