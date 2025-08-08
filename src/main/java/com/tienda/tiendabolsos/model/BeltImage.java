@@ -27,3 +27,4 @@ public class BeltImage {
     @JoinColumn(name = "belt_id")
     private Belt belt;
 }
+
